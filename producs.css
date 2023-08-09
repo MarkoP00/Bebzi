@@ -246,7 +246,7 @@
 }
 @media (max-width: 326px){
     .fixedImage{
-        width: 105%;
+        width: 100%;
     }
     .productBox{
         gap: 20px;
